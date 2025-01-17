@@ -1,4 +1,4 @@
-import { BranchNode, LeafNode, MenuTreeRoot } from "../../components/tree-menu/tree.types";
+import { BranchNode, LeafNode, MenuTreeRoot } from "../../components/treeMenu/Treetypes";
 import { Experiment, Image, Project } from "./Project.types";
 
 export type GetMenuTreePops = {

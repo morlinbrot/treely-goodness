@@ -1,5 +1,5 @@
 import { HTMLAttributes } from "react"
-import { BranchNode, LeafNode, MenuTreeRoot, TreeNode } from "./tree.types"
+import { BranchNode, LeafNode, MenuTreeRoot, TreeNode } from "./Treetypes"
 import classnames from 'classnames'
 
 export type MenuTreeProps = {
